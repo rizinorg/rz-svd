@@ -1,4 +1,5 @@
-// SPDX-FileCopyrightText: 2020 Aswin C (officialcjunior) <realc@protonmail.com>, 2026 Muqeet Salam <muqeetsalam168@gmail.com>
+// SPDX-FileCopyrightText: 2026 Muqeet Salam <muqeetsalam168@gmail.com>
+// SPDX-FileCopyrightText: 2020 Aswin C (officialcjunior) <realc@protonmail.com>
 // SPDX-License-Identifier: LGPL-3.0-only
 
 #include "rz_svd.h"
