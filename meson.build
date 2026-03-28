@@ -81,6 +81,7 @@ rz_svd_dep = declare_dependency(
   link_with: rz_svd_link,
   dependencies: [],
   include_directories: include_directories('include'),
+  compile_args: rz_svd_c_args
 )
 
 meson.override_dependency('rz_svd', rz_svd_dep)
